@@ -1,0 +1,12 @@
+# README
+
+You are creating a game of Rock, Paper, Scissor, Lizard, Spock in text form. 
+https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock
+
+Your game should have a few functionalities:
+1. The player should be able to decide between vs. Computer or vs. another Player.
+2.   If they choose computer, the software should randomly decide one of the options.
+3.   If they choose another player, it should prompt both players to pick either rock, paper, scissor, lizard, or spock one at a time.
+4.   You should figure out a way to successfully hide the user's input or ot have it so that Player 2 will not know Player 2's input.
+5.   It should successfully determine who is the winner based on the input provided.
+6.   You should be able to play more than one game if the user so decides.
